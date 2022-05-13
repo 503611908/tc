@@ -1,0 +1,19 @@
+{
+  "name": "eutaboo1",
+  "version": "1.0.0",
+  "description": "静态资源仓库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/503611908/tc.git"
+  },
+  "author": "eutaboo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/503611908/tc/issues"
+  },
+  "homepage": "https://github.com/503611908/tc#readme"
+}

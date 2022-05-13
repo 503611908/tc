@@ -1,0 +1,34 @@
+body .corepress-layer .layui-layer-title {
+    border-bottom: none;
+    background-color: #fff;
+    font-size: 16px;
+}
+
+body .corepress-layer {
+    border-radius: 2px;
+    overflow: hidden;
+}
+
+body .corepress-layer {
+    max-width: 360px;
+}
+
+.layui-layer-close {
+    color: #91949a;
+}
+
+body .layui-layer-btn0 {
+    padding: 12px 20px;
+    height: revert;
+    line-height: revert;
+}
+
+body .layui-layer-btn .layui-layer-btn0 {
+    border-color: var(--Maincolor);
+    background-color: var(--Maincolor);
+    color: #fff;
+}
+
+.layui-layer-btn a {
+    font-size: 14px;
+}
